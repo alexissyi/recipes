@@ -1,0 +1,40 @@
+* {
+  font-family: "Verdana", "sans-serif";
+}
+h1,
+h2 {
+  font-weight: bold;
+  color: rgb(49, 90, 132);
+}
+
+h2 {
+  margin: 0 8px;
+}
+
+.header {
+  background-color: aliceblue;
+  padding: 16px;
+  margin: 12px;
+  text-align: center;
+}
+
+.section {
+  background-color: aliceblue;
+  padding: 16px;
+  margin: 12px;
+}
+
+.subheader {
+  padding: 8px;
+}
+
+a {
+  padding: 8px;
+  display: block;
+  margin: 8px;
+}
+
+.img-wrapper {
+  padding: 8px;
+  margin: 8px;
+}
